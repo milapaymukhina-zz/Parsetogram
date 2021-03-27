@@ -13,6 +13,8 @@ import Parse
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
+    // idk if this should be here
+    // var window: UIWindow?
     
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
